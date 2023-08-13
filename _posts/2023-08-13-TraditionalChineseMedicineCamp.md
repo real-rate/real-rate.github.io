@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traditional Chinese medicine camp  (2023/7/25~28)
-subtitle: Happy happy happy
+subtitle: What a wonderful experience.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/小愛金錢至上.png
 share-img: /assets/img/path.jpg
