@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/小愛金錢至上.png
 share-img: /assets/img/path.jpg
 tags: [camp]
 ---
+OMG! The camp cost 8,000 dollars.
+
 ## 養生
 
 ## 中草藥
